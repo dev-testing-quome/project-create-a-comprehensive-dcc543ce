@@ -1,0 +1,53 @@
+# Development files
+.git
+.gitignore
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+
+# Build artifacts
+*/dist/
+*/build/
+frontend/dist/
+frontend/build/
+
+# Testing
+.pytest_cache/
+coverage/
+.coverage
+.nyc_output
+
+# Logs
+*.log
+logs/
+
+# Documentation
+README.md
+docs/
+
+# Development tools
+.eslintcache
+.parcel-cache
