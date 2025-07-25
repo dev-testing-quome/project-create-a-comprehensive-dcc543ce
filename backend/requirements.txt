@@ -1,0 +1,6 @@
+fastapi==0.96.0
+uvicorn==0.22.0
+python-multipart==0.0.6
+sqlalchemy==2.0.21
+pdance==1.10.2
+passlib==1.7.4
